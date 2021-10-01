@@ -1,1 +1,3 @@
-# package-auth-api
+```
+ composer reuqire empovdev/laravel
+```
