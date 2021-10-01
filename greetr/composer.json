@@ -1,0 +1,14 @@
+{
+    "name": "simplexi/greetr",
+    "description": "this just test for my first package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sadan",
+            "email": "sadan@codeclans.asia"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
